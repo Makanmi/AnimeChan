@@ -1,0 +1,5 @@
+/loadwep spiralbow.wep
+
+/loadrace animechan.race
+
+/loadrace rebelchan.race
